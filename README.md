@@ -1,6 +1,8 @@
 ## Seja bem-vindo!
 
-🔭 Sou um Desenvolvedor Web. 
+### Eu sou o Alex Oliveira 
+
+🔭 Desenvolvedor Web.
 
 - ### As Tecnologias que uso são:
 
