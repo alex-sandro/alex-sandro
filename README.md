@@ -2,7 +2,7 @@
 
 ### Seja bem-vindo!
 
-- ### As tecnologias que estou utilizando atualmente:
+- ### Essas são as tecnologias que estou utilizando no momento:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
