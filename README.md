@@ -16,13 +16,13 @@
 </div>
 
 
-<div>
+<!--div>
   <img src="https://github-readme-stats.vercel.app/api?username=alex-sandro&theme=tokyonight" />
 </div>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-sandro&theme=tokyonight" />
-</div>
+</div-->
 
 <div>
   <a href="https://www.linkedin.com/in/alexssoliveira/">
