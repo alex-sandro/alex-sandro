@@ -5,7 +5,7 @@
 - ### Essas são as tecnologias que estou utilizando no momento:
 
 <div>
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python,django)](https://skills.thijs.gg)
+  <img src="https://skills.thijs.gg/icons?i=js,html,css,python,django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
