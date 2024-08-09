@@ -1,17 +1,28 @@
-## Olá! Eu sou o Alex. 
+# Olá, 👋 meu nome é Alex Sandro. 
 
-### Seja bem-vindo!
+## Seja bem-vindo!
 
-- ### Essas são as tecnologias que estou utilizando no momento:
+Sou programador desktop e web fullstack. 
 
-<div>
-  <img src="https://skills.thijs.gg/icons?i=js,html,css,python,django,mysql,git" />
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-sandro&theme=tokyonight" />
-</div-->
+### 💻 Essas são algumas tecnologias que eu conheço:
 
-<div>
-  <a href="https://www.linkedin.com/in/alexssoliveira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+- HTML5
+- CSS3
+- Javascript
+- React
+- PHP
+- C#
+- C++
+- Python
+- Pandas
+- Mysql
+- Linux
+- Git
+
+### 🚀  GitStats
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alex-sandro&theme=tokyonight)
+
+### Fale comigo:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexssoliveira/)
+
+#### Obrigado por sua visita.
