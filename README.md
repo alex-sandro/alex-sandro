@@ -11,8 +11,6 @@ Sou programador desktop e web fullstack.
 - Javascript
 - React
 - PHP
-- C#
-- C++
 - Python
 - Pandas
 - Mysql
